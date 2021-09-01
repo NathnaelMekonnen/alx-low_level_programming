@@ -7,7 +7,7 @@
 int main(void)
 {
 	int i;
-	char string[] = "Holberton\n";
+	char string[] = "_putchar\n";
 
 	for (i = 0; i <= 9; i++)
 	{
