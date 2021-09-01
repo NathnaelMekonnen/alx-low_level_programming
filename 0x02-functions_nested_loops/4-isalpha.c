@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _isalpha - function to describe if the parameter is a character
  * @c: character type int
