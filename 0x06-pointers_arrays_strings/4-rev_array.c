@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 #include <stdio.h>
 
 /**
@@ -12,7 +12,6 @@ void reverse_array(int *a, int n)
 	int j;
 	int i;
 	int gua[1000];
-
 
 	j = 0;
 	while (j < n)
